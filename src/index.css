@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+
+:root {
+
+  --white-color: hsl(0 0% 100%);
+  --black-color: hsl(0 0% 0%);
+
+  --body-font: 'Poppins', sans-serif;
+
+  --h1-fs: 2rem;
+  --normal-fs: 1rem;
+  --small-fs: 0.813rem;
+
+  --medium: 500;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Teko", sans-serif;
+  background-color: #000;
+
+  background-size: cover;
+
+  background-position: center;
+
+}
